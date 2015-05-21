@@ -1,0 +1,25 @@
+{
+  "name": "primus-express-session-middleware",
+  "version": "0.0.1",
+  "description": "Share a user session between Express 4.x and Primus 3.0.x using middleware",
+  "main": "index.js",
+  "dependencies": {
+    "express-session": "^1.11.2"
+  },
+  "devDependencies": {},
+  "author": {
+    "name": "Claudiu Hojda",
+    "email": "djhojd@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djhojd/primus-express-session-middleware.git"
+  },
+  "keywords": [
+    "primus",
+    "websockets",
+    "express",
+    "session"
+  ],
+  "license": "MIT"
+}
