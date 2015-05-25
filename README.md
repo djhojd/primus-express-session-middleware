@@ -4,7 +4,7 @@ Share a user session between Express 4.x and Primus 3.0.x using middleware.
 ## Installation
 
 ```
-npm i git://github.com/djhojd/primus-express-sessio-middleware.git
+npm i git://github.com/djhojd/primus-express-session-middleware.git
 npm i primus-express-session-middleware
 ```
 
