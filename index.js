@@ -22,7 +22,7 @@ module.exports = function configure(options) {
     throw new PrimusError(message, this);
   }
 
-  // Source: express-session/session/store.js#L76
+  // Source: https://github.com/expressjs/session/blob/master/session/store.js#L76
   var createSession = function(req, sess){
     var expires = sess.cookie.expires
       , orig = sess.cookie.originalMaxAge;
